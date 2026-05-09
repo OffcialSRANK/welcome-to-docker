@@ -1,4 +1,4 @@
-# Start your image with a node base image
+# docker build -t welcome-to-docker .
 FROM node:22-alpine
 
 # The /app directory should act as the main application directory
